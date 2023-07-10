@@ -16,3 +16,17 @@ Website's sneakpeek:
 ![image](https://user-images.githubusercontent.com/94098866/219936131-db25d10f-19a4-4772-bf48-5ce0c582b7f9.png)
 ![image](https://user-images.githubusercontent.com/94098866/219936144-62a7d25a-4f66-4d50-9dd3-1fe8a8625261.png)
 ![image](https://user-images.githubusercontent.com/94098866/219936160-3fe8c39e-743e-4e51-8ff5-c5719b5ed558.png)
+
+<!-- add 4 authors and 2 mentors with src link -->
+
+## Authors
+
+- [@Vivek](https://github.com/Vivek-C-Shah/)
+- [@Vraj](https://github.com/vraj1103/)
+- [@Saurav Navdhare](https://github.com/Saurav-Navdhare/)
+- [@Bhagirath Patel](https://github.com/bhagirath-bhp/)
+
+## Mentors
+
+- [@Santosh Sathapathy](https://www.linkedin.com/in/santosh-satpathy-5815a344/)
+- [@Nitin Rajput](https://www.linkedin.com/in/nitin-singh-rajput-3b6158185/)
