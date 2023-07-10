@@ -1,0 +1,40 @@
+{
+	"emulators":{
+		"default":{
+			"port":3569,
+			"serviceAccount":"emulator-account"
+		}
+	},
+	"contracts":{
+		"ChatApp": "./contracts/chatApp.cdc"
+	},
+	"networks": {
+		"emulator": "127.0.0.1:3569",
+		"mainnet": "access.mainnet.nodes.onflow.org:9000",
+		"sandboxnet": "access.sandboxnet.nodes.onflow.org:9000",
+		"testnet": "access.devnet.nodes.onflow.org:9000"
+	},
+	"accounts": {
+		"emulator-account": {
+			"address": "0x40cf97892dc1448d",
+			"key": "23bc1cce6de2c1b85df6adf432a48af19159dceb777e73c14a1182d4816a2749"
+		},
+		"testnet-account": {
+			"address": "0x40cf97892dc1448d",
+			"key": {
+				"type": "hex",
+				"index": 0,
+				"signatureAlgorithm": "ECDSA_P256",
+				"hashAlgorithm": "SHA3_256",
+				"privateKey": "23bc1cce6de2c1b85df6adf432a48af19159dceb777e73c14a1182d4816a2749"
+			}
+		}
+	},
+	"deployments": {
+		"testnet":{
+			"testnet-account":[
+				"ChatApp"
+			]
+		}
+	}
+}
